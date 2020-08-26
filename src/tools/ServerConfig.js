@@ -1,0 +1,1 @@
+export const resources_url = 'http://localhost:8088/FindYourEvent';
